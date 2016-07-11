@@ -1,2 +1,2 @@
 # react-simple-boilerplate
-react-simple-boilerplate
+react+react-router+webpack+es6
